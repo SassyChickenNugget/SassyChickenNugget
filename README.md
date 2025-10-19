@@ -16,7 +16,7 @@
 </div>
 
 
-## <div align="center">🌿 小仓库还没有完善哦！🌿</div>
+## <div align="center">🌿 Hi there！🌿</div>
 
 ## 🌟 About
 
@@ -94,55 +94,6 @@ These resources are designed to provide practical context to the theoretical con
 <details open>
 <summary><b>🧠 Machine Learning</b></summary>
 
-### 🧠 Machine Learning
-| Date | Title | Description |
-|------|-------|-------------|
-| 2023-07-15 | [Introduction to Transformer Architecture](articles/machine-learning/transformer-architecture.md) | The Transformer architecture, introduced in the landmark 2017 paper ["Attention Is All You Need"]... |
-
-</details>
-
-<details open>
-<summary><b>👁️ Computer Vision</b></summary>
-
-### 👁️ Computer Vision
-| Date | Title | Description |
-|------|-------|-------------|
-| 2023-07-22 | [Understanding Convolutional Neural Networks](articles/computer-vision/understanding-cnns.md) | Convolutional Neural Networks (CNNs) have revolutionized the field of computer vision, enabling r... |
-| 2023-06-05 | [详细讲解体素网格降采样](articles/computer-vision/体素网格降采样.md) | 点云数据是由三维空间中大量离散点组成的数据集，通常来源于激光雷达（LiDAR）、深度相机等设备。随着点云数据规模的增加，处理这些数据的计算成本和存储需求也随之上升。体素网格降采样通过将三维空间划... |
-
-</details>
-
-<details open>
-<summary><b>🤖 Robotics</b></summary>
-
-### 🤖 Robotics
-| Date | Title | Description |
-|------|-------|-------------|
-| 2023-08-15 | [Sensor Fusion Techniques in Robotics](articles/robotics/sensor-fusion.md) | Sensor fusion is the process of combining data from multiple sensors to achieve more accurate, co... |
-| 2023-07-30 | [Path Planning Algorithms for Autonomous Robots](articles/robotics/path-planning.md) | Path planning is a fundamental challenge in robotics that involves finding a viable trajectory fr... |
-
-</details>
-
-<details open>
-<summary><b>⚡ High-Performance Computing</b></summary>
-
-### ⚡ High-Performance Computing
-| Date | Title | Description |
-|------|-------|-------------|
-| 2023-08-05 | [CUDA Programming Fundamentals](articles/high-performance-computing/cuda-fundamentals.md) | Graphics Processing Units (GPUs) have evolved from specialized hardware for rendering graphics to... |
-
-</details>
-
-<details open>
-<summary><b>💻 Programming</b></summary>
-
-### 💻 Programming
-| Date | Title | Description |
-|------|-------|-------------|
-| 2023-08-12 | [Functional Programming Principles](articles/programming/functional-programming.md) | Functional programming (FP) is a programming paradigm that treats computation as the evaluation o... |
-| 2023-07-10 | [Design Patterns in Modern Software](articles/programming/modern-design-patterns.md) | Design patterns are reusable solutions to common problems in software design. They represent best... |
-
-</details>
 
 ## 🤝 Contributing
 
