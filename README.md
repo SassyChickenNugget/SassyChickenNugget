@@ -18,19 +18,17 @@
 
 ## <div align="center">🌿 Hi there！🌿</div>
 
-## 🌟 About
+## 🌟 About Me
 
-This blog serves as a knowledge repository for cutting-edge technology research and practical applications across multiple domains. Each article aims to bridge the gap between theoretical concepts and their real-world implementation, providing both depth and accessibility.
+Hi there! 👋 I'm Wenting Li, a data enthusiast passionate about uncovering stories hidden in data. I combine analytical thinking, strategic communication, and business insight to create data-driven solutions that are both technically sound and practically meaningful.
+This portfolio showcases my projects, experiments, and learning journey in the field of Data Science — ranging from predictive modeling to data visualization and real-world business analytics.
 
 Key features of this collection:
 
-- **📊 In-depth Analysis**: Detailed examinations of algorithms, architectures, and methodologies
-- **💡 Practical Examples**: Code snippets and implementation guides for applying concepts
-- **🔄 Cross-disciplinary Approach**: Exploring connections between different technology domains
-- **📑 Research-backed Content**: Articles grounded in academic research and industry best practices
-
-The content is regularly updated with new discoveries, emerging technologies, and refined methodologies to maintain relevance in the rapidly evolving tech landscape.
-
+- **📊 Data Analytics**: Data cleaning, visualization, and storytelling using Python, Pandas, and Power BI
+- **🤖 Machine Learning**: Regression, classification, and clustering with Scikit-learn
+- **📈 Business Intelligence**: Turning raw data into insights that support decision-making
+- **💬 Communication & Strategy**: Explaining technical findings clearly for non-technical audiences
 
 
 ## 🔬 Research Areas
@@ -77,22 +75,7 @@ The content is regularly updated with new discoveries, emerging technologies, an
   </table>
 </div>
 
-## 📦 Resources
 
-To complement our articles, we provide a comprehensive collection of resources including:
-
-- **🧮 [Source Code](resources/code/)**: Implementations of algorithms and techniques discussed in articles
-- **📊 [Datasets](resources/datasets/)**: Sample data for experiments and demonstrations
-- **🎮 [Interactive Demos](resources/demos/)**: Hands-on applications to explore concepts
-- **📑 [Technical Documents](resources/docs/)**: In-depth documentation, proofs, and additional materials
-
-These resources are designed to provide practical context to the theoretical concepts covered in our articles. Feel free to explore, use, and contribute to these resources following our [guidelines](resources/README.md).
-
-
-## 📚 Featured Articles
-
-<details open>
-<summary><b>🧠 Machine Learning</b></summary>
 
 
 ## 🤝 Contributing
