@@ -31,83 +31,25 @@ Key features of this collection:
 - **💬 Communication & Strategy**: Explaining technical findings clearly for non-technical audiences
 
 
-## 🔬 Research Areas
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <div style="font-size: 36px;">🧠</div>
-        <br>
-        <b>Machine Learning</b>
-        <br>
-        <small>Deep Learning • Neural Networks</small>
-      </td>
-      <td align="center">
-        <div style="font-size: 36px;">👁️</div>
-        <br>
-        <b>Computer Vision</b>
-        <br>
-        <small>Image Processing • Detection</small>
-      </td>
-      <td align="center">
-        <div style="font-size: 36px;">🤖</div>
-        <br>
-        <b>Robotics</b>
-        <br>
-        <small>Control • Navigation</small>
-      </td>
-      <td align="center">
-        <div style="font-size: 36px;">⚡</div>
-        <br>
-        <b>High-Performance Computing</b>
-        <br>
-        <small>GPU • Parallel Processing</small>
-      </td>
-      <td align="center">
-        <div style="font-size: 36px;">💻</div>
-        <br>
-        <b>Programming</b>
-        <br>
-        <small>Software Engineering</small>
-      </td>
-    </tr>
-  </table>
-</div>
+  🧩 Featured Projects
+🏷️ Project	💡 Description	🧰 Tools
+🏠 Silicon Valley Housing Prices	A simple model to analyze and compare average home prices in the Bay Area	Python, Pandas
+🎮 Rock Paper Scissors Game	A fun beginner Python game showcasing logic and interaction	Python
+🐍 Snake Game	Classic arcade game built using Turtle graphics	Python
 
 
+🧩 Skills
+🔹 Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+🔹 Data Visualization & Dashboards
+🔹 Machine Learning (Regression / Classification)
+🔹 Business Analytics
+🔹 Communication & Report Writing
 
+🌱 Currently Learning
+Advanced Data Visualization
+Predictive Modeling
+SQL for Data Science
 
-## 🤝 Contributing
-
-We welcome your contributions to this research blog. Here's how to get started:
-
-### 📋 Guidelines
-
-- ✅ Follow our [Code of Conduct](CODE_OF_CONDUCT.md)
-- 📝 Submit research articles, code examples, or bug fixes
-- 🔍 Maintain high quality standards for all contributions
-
-### 🚀 Quick Start
-
-1. 🍴 Fork the repository
-2. 🌿 Create branch: `git checkout -b feature/your-feature`
-3. 🔀 Submit pull request
-
-For more details, see [Contributing Guidelines](CONTRIBUTING.md) and [Article Guidelines](ARTICLE_GUIDELINES.md).
-
-
-
-## 📞 Contact
-
-<div align="center">
-  <a href="mailto:yaoyuzhuo6@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/BreCaspian"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://x.com/BreCaspian"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-</div>
-
-
-<div align="center">
-  <hr style="width: 80%; margin: 20px auto;">
-  <sub>© 2025 Yaosir • Made with ❤️</sub>
-</div> 
+🤝 Connect with Me
+💼 LinkedIn (you can paste your link here)
+📧 Email: your_email@example.com
